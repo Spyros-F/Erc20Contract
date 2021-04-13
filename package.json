@@ -18,7 +18,7 @@
   "devDependencies": {
     "@openzeppelin/test-helpers": "^0.5.10",
     "@openzeppelin/truffle-upgrades": "^1.5.0",
-    "@truffle/hdwallet-provider": "^1.2.2",
+    "@truffle/hdwallet-provider": "^1.2.6",
     "chai": "^4.3.0",
     "chai-bignumber": "^3.0.0",
     "eth-gas-reporter": "^0.2.21",

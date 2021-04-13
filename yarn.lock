@@ -1735,7 +1735,7 @@
     emittery "^0.4.1"
     ora "^3.4.0"
 
-"@truffle/hdwallet-provider@^1.2.2":
+"@truffle/hdwallet-provider@^1.2.6":
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/@truffle/hdwallet-provider/-/hdwallet-provider-1.2.6.tgz#249cfdb291e9b6ce6f0444a60bc4b0f06e87b627"
   integrity sha512-g4n1ETH2y7KlqQYq0PMjuHaLxggU96RSj1p3i6dGCAgONyPyA+TD1wyot8M2dXp+RG/VVzZoVTuyFGyBs5EhXw==
